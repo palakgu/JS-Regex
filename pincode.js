@@ -9,4 +9,4 @@ function validatePin(pin) {
     }
 }
 
-console.log(validatePin("A400088")); 
+console.log(validatePin("A400088B")); 
